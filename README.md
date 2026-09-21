@@ -414,7 +414,10 @@ and:
 The Patient Details page answers:
 
 > **Which specific patient/admission records are behind the analysis?**
+> 
+### Dashboard Preview
 
+![Healthcare Management Overview](images/patient_details.png)
 ---
 
 # 📈 Dashboard Design Philosophy
