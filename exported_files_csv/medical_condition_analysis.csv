@@ -1,0 +1,7 @@
+"Medical Condition","patient_count","average_patient_age","total_billing_amount","average_billing_amount","male_patients","female_patients","average_length_of_stay"
+Arthritis,9308,51.6,237335000.00,25528.12,4622,4686,16
+Asthma,9185,51.6,235470000.00,25686.67,4632,4553,16
+Cancer,9227,51.6,232179000.00,25214.91,4625,4602,15
+Diabetes,9304,51.6,238548000.00,25694.50,4653,4651,15
+Hypertension,9245,51.7,235730000.00,25556.09,4633,4612,15
+Obesity,9231,51.2,238225000.00,25860.32,4609,4622,15

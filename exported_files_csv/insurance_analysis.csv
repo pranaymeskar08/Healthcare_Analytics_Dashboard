@@ -1,0 +1,6 @@
+"insurance_provider","patient_count","hospital_count","total_billing_amount","average_billing_amount","average_patient_age","medical_condition_count"
+Aetna,10913,9022,278882000.00,25618.33,52,6
+Blue Cross,11059,9131,283262000.00,25650.84,52,6
+Cigna,11249,9217,287152000.00,25581.44,51,6
+Medicare,11154,9224,285732000.00,25667.55,51,6
+UnitedHealthcare,11125,9186,282460000.00,25433.07,51,6

@@ -1,0 +1,4 @@
+"admission_type","patient_count","average_age","total_billing_amount","average_billing_amount","average_length_of_stay","medical_condition_count"
+Elective,18655,51,477634000.00,25654.31,16,6
+Emergency,18269,52,465824000.00,25544.18,16,6
+Urgent,18576,52,474031000.00,25570.74,15,6

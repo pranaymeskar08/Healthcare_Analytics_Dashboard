@@ -1,0 +1,61 @@
+"age_group","gender","medical_condition","patient_count","average_billing_amount","total_billing_amount","average_length_of_stay"
+Adults,Female,Arthritis,1046,24761.52,25826200.00,15
+Adults,Female,Asthma,1013,26075.70,26310400.00,15
+Adults,Female,Cancer,1032,24336.25,25042000.00,15
+Adults,Female,Diabetes,1005,25170.61,25296500.00,15
+Adults,Female,Hypertension,986,25432.32,25000000.00,15
+Adults,Female,Obesity,1015,26233.63,26548400.00,15
+Adults,Male,Arthritis,1053,25893.42,27239900.00,15
+Adults,Male,Asthma,1017,26573.56,26972200.00,16
+Adults,Male,Cancer,987,25844.04,25508100.00,15
+Adults,Male,Diabetes,1042,25731.93,26735500.00,15
+Adults,Male,Hypertension,1054,25709.17,27071800.00,15
+Adults,Male,Obesity,994,26179.42,25943800.00,15
+Children,Female,Arthritis,10,26610.45,266105.00,16
+Children,Female,Asthma,10,33328.05,333280.00,18
+Children,Female,Cancer,8,25656.98,205256.00,19
+Children,Female,Diabetes,7,31298.82,219092.00,21
+Children,Female,Hypertension,5,38916.16,194581.00,9
+Children,Female,Obesity,15,26968.79,404532.00,13
+Children,Male,Arthritis,11,30945.87,340405.00,16
+Children,Male,Asthma,10,30557.33,305573.00,16
+Children,Male,Cancer,13,30175.76,392285.00,7
+Children,Male,Diabetes,9,25620.38,230583.00,19
+Children,Male,Hypertension,6,24426.55,146559.00,17
+Children,Male,Obesity,12,22436.79,269242.00,17
+Middle Age,Female,Arthritis,1048,25707.50,26915800.00,16
+Middle Age,Female,Asthma,982,25107.52,24580300.00,16
+Middle Age,Female,Cancer,1021,25954.48,26421700.00,16
+Middle Age,Female,Diabetes,1055,25533.03,26911800.00,15
+Middle Age,Female,Hypertension,997,25641.07,25487200.00,16
+Middle Age,Female,Obesity,1072,25920.61,27709100.00,16
+Middle Age,Male,Arthritis,1043,25494.31,26590600.00,15
+Middle Age,Male,Asthma,1012,25372.76,25651800.00,16
+Middle Age,Male,Cancer,1024,24935.56,25459200.00,15
+Middle Age,Male,Diabetes,1050,25119.03,26299600.00,15
+Middle Age,Male,Hypertension,1059,25772.40,27215700.00,16
+Middle Age,Male,Obesity,1052,26117.58,27449600.00,15
+Seniors,Female,Arthritis,1773,25509.84,45229000.00,15
+Seniors,Female,Asthma,1766,25034.03,44084900.00,16
+Seniors,Female,Cancer,1742,25510.92,44363400.00,16
+Seniors,Female,Diabetes,1779,25624.52,45457900.00,15
+Seniors,Female,Hypertension,1825,25362.09,46209700.00,15
+Seniors,Female,Obesity,1720,25633.53,43987100.00,15
+Seniors,Male,Arthritis,1749,25949.03,45307000.00,16
+Seniors,Male,Asthma,1773,25999.36,46044900.00,16
+Seniors,Male,Cancer,1794,24700.92,44214600.00,16
+Seniors,Male,Diabetes,1776,26333.61,46715800.00,16
+Seniors,Male,Hypertension,1730,25581.74,44154100.00,16
+Seniors,Male,Obesity,1721,25401.60,43589100.00,16
+Young Adults,Female,Arthritis,809,25413.70,20508900.00,15
+Young Adults,Female,Asthma,782,25897.97,20226300.00,16
+Young Adults,Female,Cancer,799,25391.20,20262200.00,15
+Young Adults,Female,Diabetes,805,26057.33,20871900.00,15
+Young Adults,Female,Hypertension,799,25711.51,20492100.00,15
+Young Adults,Female,Obesity,800,26076.90,20861500.00,15
+Young Adults,Male,Arthritis,766,24981.95,19111200.00,16
+Young Adults,Male,Asthma,820,25561.00,20960000.00,16
+Young Adults,Male,Cancer,807,25229.89,20310100.00,15
+Young Adults,Male,Diabetes,776,25593.14,19809100.00,16
+Young Adults,Male,Hypertension,784,25265.71,19757800.00,16
+Young Adults,Male,Obesity,830,25858.74,21462800.00,15

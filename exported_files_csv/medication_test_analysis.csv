@@ -1,0 +1,16 @@
+"medication","test_results","patient_count","average_patient_age","total_billing_amount","average_billing_amount","average_length_of_stay"
+Aspirin,Abnormal,3732,52,95757700.00,25720.53,16
+Aspirin,Inconclusive,3624,52,91919300.00,25406.09,15
+Aspirin,Normal,3738,51,96272100.00,25796.36,16
+Ibuprofen,Abnormal,3747,52,95577000.00,25575.85,16
+Ibuprofen,Inconclusive,3645,52,95660000.00,26258.55,16
+Ibuprofen,Normal,3735,51,95135100.00,25532.75,15
+Lipitor,Abnormal,3707,51,93677200.00,25318.12,15
+Lipitor,Inconclusive,3746,52,95456900.00,25543.70,16
+Lipitor,Normal,3687,51,93193100.00,25310.45,16
+Paracetamol,Abnormal,3737,52,95039900.00,25459.45,15
+Paracetamol,Inconclusive,3681,52,93022100.00,25374.26,15
+Paracetamol,Normal,3653,51,94631900.00,25919.46,16
+Penicillin,Abnormal,3704,52,95670100.00,25884.74,16
+Penicillin,Inconclusive,3660,51,94309200.00,25831.04,16
+Penicillin,Normal,3704,51,92165000.00,24929.69,16
