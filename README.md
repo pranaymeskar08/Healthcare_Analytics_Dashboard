@@ -321,7 +321,7 @@ This page provides a high-level management view of the healthcare operation.
 
 ### Dashboard Preview
 
-![Healthcare Management Overview](images/healthcare_management_overview.png)
+![Healthcare Management Overview](images/management_overview.png)
 
 ---
 
